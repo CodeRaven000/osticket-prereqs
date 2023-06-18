@@ -32,14 +32,14 @@ This tutorial outlines the prerequisites and installation of osTicket the open-s
 <img src="https://i.imgur.com/EgkbdFV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a virtual machine and use remote desktop connection to login. Download the PHP Manager and MySQL Server. After downloading PHP Manager credentials need to be set up. Go to <b>standard configuration</b> --> <b>next</b> --> <b>create a root password</b> --> <b>next</b> --> <b>execute</b>. In the search bar type IIS right-click then select run as administrator. Double click register new PHP version - browse to find the folder where the PHP files have been extracted and stored. After registering PHP restart IIS.  
+Create a virtual machine and use remote desktop connection to login. Download the PHP Manager and MySQL Server. After downloading PHP Manager credentials need to be set up. Go to <b>standard configuration</b> --> <b>next</b> --> <b>create a root password</b> --> <b>next</b> --> <b>execute</b>. In the search bar type IIS right-click then select run as administrator. Double-click register new PHP version - browse to find the folder where the PHP files have been extracted and stored. After registering PHP restart IIS.  
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/n1w8Q2y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download osTicket. Extract and copy the folder then upload it to the wwwroot folder and rename the folder osTicket.  
+Download osTicket. Extract and copy the folder then upload it to the <i>wwwroot</i> folder and rename the folder osTicket.  
 </p>
 <br />
 <p>
