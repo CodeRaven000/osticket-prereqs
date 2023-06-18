@@ -6,9 +6,7 @@
 This tutorial outlines the prerequisites and installation of osTicket the open-source help desk ticketing system.<br />
 
 
-
-
-<h2>Environments and Technologies Used</h2>
+</br><h2>Environments & Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -16,26 +14,27 @@ This tutorial outlines the prerequisites and installation of osTicket the open-s
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a virtual machine
+- Download PHP Manager & MySQL Server
+- Install osTicket
+</br>
+<h2>Installing osTicket</h2>
 
-<h2>Installation Steps</h2>
-
-<p>
+</br><p>
 <img src="https://i.imgur.com/cLwE0iI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 <img src="https://i.imgur.com/EgkbdFV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+Create a virtual machine and use remote desktop connection to login. Download the PHP Manager and MySQL Server. After downloading PHP Manager credentials need to be set up. Go to <b>standard configuration</b> --> <b>next</b> --> <b>create a root password</b> --> <b>next</b> --> <b>execute</b>. In the search bar type IIS right-click then select run as administrator. Double click register new PHP version - browse to find the folder where the PHP files have been extracted and stored. After registering PHP restart IIS.  
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/n1w8Q2y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
