@@ -38,50 +38,30 @@ Create a virtual machine and use remote desktop connection to login. Download th
 <p>
 <img src="https://i.imgur.com/n1w8Q2y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+Download osTicket. Extract and copy the folder then upload it to the wwwroot folder and rename the folder osTicket.  
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/zV9Wcfb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 
 <p>
 <img src="https://i.imgur.com/1ynJzOZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
 <p>
 <img src="https://i.imgur.com/1mXSCCA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-
+<p>
+Enable the PHP extensions for osTicket. osTicket is now successfully installed! 
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/ZowQ0y6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
 
 <p>
 <img src="https://i.imgur.com/mcWcI4Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
